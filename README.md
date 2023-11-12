@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jean Carlos</h1>
 <h3 align="center">A passionate developer from Peru</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif">
+<img align="center" alt="Coding" width="400" src="https://excelcoders.com/wp-content/uploads/2022/07/android.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeancarlosjayo&label=Profile%20views&color=0e75b6&style=flat" alt="jeancarlosjayo" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeancarlosjayo" alt="jeancarlosjayo" /></a> </p>
