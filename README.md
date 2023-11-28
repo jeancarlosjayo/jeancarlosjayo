@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeancarlosjayo" alt="jeancarlosjayo" /></a> </p>
 
-- 🔭 I’m currently working on [laboteciot-back](https://github.com/equipo-labotec/laboteciot-back)
+- 🔭 I’m currently working on [Entel-BackEnd](https://github.com/equipo-labotec/Entel-BackEnd)
 
 - 🌱 I’m currently learning **Jetpack Compose and Flutter**
 
